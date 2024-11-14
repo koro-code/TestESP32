@@ -1,0 +1,8 @@
+# Ignorer le dossier PlatformIO
+Test/.pio/
+
+# Ignorer les configurations de l'éditeur VS Code
+Test/.vscode/
+
+# Ignorer l'environnement virtuel Python
+Test/env/
